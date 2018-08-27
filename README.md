@@ -1,8 +1,8 @@
 # ColorConversion
-
+<font color="green"> Some green text </font>
 <h1 color="green">Formula</h1>
 <h3> RGB to HSL</h3>
-   <div style="color:green;">
+   <div >
   
   The R,G,B values are divided by 255 to change the range from 0..255 to 0..1:
 
