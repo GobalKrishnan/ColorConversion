@@ -76,14 +76,15 @@ Cmin = min(R', G', B')
  
 
 Hue calculation:
+
   <img src="https://www.rapidtables.com/convert/color/rgb-to-hsv/hue-calc2.gif">
  
 
  
 
 Saturation calculation:
-   <img src="https://www.rapidtables.com/convert/color/rgb-to-hsv/sat-calc.gif">
-
+  
+ <img src="https://www.rapidtables.com/convert/color/rgb-to-hsv/sat-calc.gif">
 
  
 
