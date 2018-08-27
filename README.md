@@ -95,6 +95,24 @@ V = Cmax
    </div>
 <hr>
 <hr>
+<h3> HSV to RGB</h3>
+   <div>
+     When 0 ≤ H < 360, 0 ≤ S ≤ 1 and 0 ≤ V ≤ 1:
+
+C = V × S
+
+X = C × (1 - |(H / 60°) mod 2 - 1|)
+
+m = V - C
+
+<img src="https://www.rapidtables.com/convert/color/hsv-to-rgb/hsv-to-rgb.gif">
+
+
+(R,G,B) = ((R'+m)×255, (G'+m)×255,	(B'+m)×255)
+
+   </div>
+<hr>
+<hr>
 
 
 
