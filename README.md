@@ -2,7 +2,7 @@
 
 <h1 color="green">Formula</h1>
 <h3> RGB to HSL</h3>
-   <div>
+   <div style="color:green;">
   
   The R,G,B values are divided by 255 to change the range from 0..255 to 0..1:
 
