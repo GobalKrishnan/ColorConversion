@@ -37,3 +37,28 @@ Lightness calculation:
 L = (Cmax + Cmin) / 2
   
    </div>
+<hr>
+<hr>
+<h3> HSL to RGB</h3>
+   <div>
+  
+ When 0 ≤ H < 360, 0 ≤ S ≤ 1 and 0 ≤ L ≤ 1:
+
+C = (1 - |2L - 1|) × S
+
+X = C × (1 - |(H / 60°) mod 2 - 1|)
+
+m = L - C/2
+
+<img src="https://www.rapidtables.com/convert/color/hsv-to-rgb/hsv-to-rgb.gif">
+
+
+(R,G,B) = ((R'+m)×255, (G'+m)×255,(B'+m)×255)
+   </div>
+<hr>
+<hr>
+
+
+
+
+
