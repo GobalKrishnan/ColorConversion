@@ -28,7 +28,7 @@ Hue calculation:
 
 Saturation calculation:
 
-
+   <img src="https://www.rapidtables.com/convert/color/rgb-to-hsl/sat-calc.gif">
 
  
 
