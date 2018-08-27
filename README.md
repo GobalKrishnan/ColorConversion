@@ -1,6 +1,6 @@
 # ColorConversion
 
-<h1>Formula</h1>
+<h1 style="color:green;">Formula</h1>
 <h3> RGB to HSL</h3>
    <div>
   
